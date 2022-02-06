@@ -1,9 +1,0 @@
-# apt command 정리
-add-apt-repository ppa:deadsnakes/ppa
-apt-get update
-apt-get install python3.6
-apt-get install build-essential python3.6-dev
-apt-get install uwsgi-plugin-python3
-apt-get install python3-apt --reinstall
-apt_pkg.cpython-38-x86_64-linux-gnu.so apt_pkg.so
-apt-get install libgl1-mesa-glx
